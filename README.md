@@ -1,1 +1,1 @@
-# cyrptonit.finance
+# cryptostars.finance
