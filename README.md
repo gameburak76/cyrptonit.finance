@@ -1,1 +1,1 @@
-# cryptostars.finance
+# cryptobullet.finance
