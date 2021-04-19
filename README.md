@@ -1,1 +1,1 @@
-# redkit.finance
+# legocoin.finance
